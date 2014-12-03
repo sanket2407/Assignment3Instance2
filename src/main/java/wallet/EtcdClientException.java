@@ -1,4 +1,4 @@
-package demo;
+package wallet;
 
 import java.io.IOException;
 

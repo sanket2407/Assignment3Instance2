@@ -1,5 +1,4 @@
-package demo;
-
+package wallet;
 import java.util.List;
 
 public class EtcdNode {

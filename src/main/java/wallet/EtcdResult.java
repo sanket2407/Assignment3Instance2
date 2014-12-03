@@ -1,4 +1,4 @@
-package demo;
+package wallet;
 
 public class EtcdResult {
 	//General values
